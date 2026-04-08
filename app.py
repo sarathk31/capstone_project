@@ -185,9 +185,9 @@ st.markdown("""
 tab1, tab2 = st.tabs(["🤖  Passenger Feedback", "📊  Airline Dashboard"])
 
 with tab1:
-    from pages import chatbot
+    import pages.chatbot as chatbot
     chatbot.run()
 
 with tab2:
-    from pages import dashboard
+    import pages.dashboard as dashboard
     dashboard.run()
