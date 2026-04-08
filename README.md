@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✈️ SkyRate — Airline Passenger Satisfaction App
 **Group 07 | PGP Data Science & AI | Great Learning | April 2026**
 
@@ -72,3 +73,7 @@ git push -u origin main
 - log1p(Flight Distance) after split
 - ColumnTransformer: StandardScaler(num) + OHE(cat)
 - XGBClassifier(eval_metric='logloss', random_state=42)
+=======
+# capstone_project
+Airplane Customer Satisification Review
+>>>>>>> 4a3d4314466cdb7a7a556c50f886142e52710462
